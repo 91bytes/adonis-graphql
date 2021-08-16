@@ -1,0 +1,20 @@
+# System
+.DS_Store
+
+# Node
+node_modules
+dist
+
+# Package manager
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+package-lock.json
+
+# IDE
+.vscode
+.idea
