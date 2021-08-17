@@ -39,5 +39,12 @@
   },
   "dependencies": {
     "apollo-server-core": "^3.1.2"
-  }
+  },
+  "keywords": [
+    "GraphQL",
+    "Apollo",
+    "Server",
+    "Adonis",
+    "TypeScript"
+  ]
 }
